@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'Events management app', 'containers': [{'container_name': 'events_backend', 'platform': 'backend', 'framework': 'fastapi', 'description': 'Handles all backend logic for events management, including events CRUD operations, user management, and business logic.', 'interfaces': 'REST APIs for event management, user registration and login, and other related endpoints.', 'relative_path': 'events_backend_workspace', 'dependencies': [], 'container_type': 'backend', 'container_details': 'Implements all backend APIs using FastAPI, connected to a database for persistent storage of events and users.'}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
